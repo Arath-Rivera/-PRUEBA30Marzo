@@ -6,6 +6,7 @@
 
 /**
  *
+ 
  * @author NANY
  */
 public class main {
@@ -21,6 +22,16 @@ public class main {
         System.out.println("Colonia las Victorias cambote zona 11");
         System.out.println("NUMERO DE TELEFONO:");
         System.out.println("59269929");
+
+        Sistema . a cabo . println ( " NOMBRE: " );
+        Sistema . a cabo . println ( " Abner Leonidas Serrano Sanchez " );
+        Sistema . a cabo . println ( " ZONA: " );
+        Sistema . a cabo . println ( " Terrero zona 4" );
+        Sistema . a cabo . println ( " NÚMERO DE TELEFONO: " );
+        Sistema . a cabo . println ( " 59032560" );        
+        
+        
     }
+    
     
 }
