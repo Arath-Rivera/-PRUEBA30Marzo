@@ -33,6 +33,10 @@ public class main {
         System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
         System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
         System.out.println("Telefono: 42252923");
+     
+        System.out.println("Nombre: Denis Joel Cifuentes Cano");
+        System.out.println("Dirección: Zona 1 Chiantla");
+        System.out.println("Telefono: 45883960");
         
     }
     
