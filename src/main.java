@@ -37,6 +37,10 @@ public class main {
         System.out.println("Nombre: Denis Joel Cifuentes Cano");
         System.out.println("Dirección: Zona 1 Chiantla");
         System.out.println("Telefono: 45883960");
+     
+        System.out.println("Daniel Alonzo Herrera ");
+        System.out.println("7a. AVE 9-81 Zona 5, Huehuetenango, Huehuetenango ");
+        System.out.println("3059-6671 ");
         
     }
     
