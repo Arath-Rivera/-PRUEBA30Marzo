@@ -30,6 +30,9 @@ public class main {
         Sistema . a cabo . println ( " NÚMERO DE TELEFONO: " );
         Sistema . a cabo . println ( " 59032560" );        
         
+        System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
+        System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
+        System.out.println("Telefono: 42252923");
         
     }
     
